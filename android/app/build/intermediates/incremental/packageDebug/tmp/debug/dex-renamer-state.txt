@@ -1,0 +1,7 @@
+#Sat Oct 05 19:33:31 IST 2019
+base.0=/Users/kapil/Desktop/React Project structure/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/kapil/Desktop/React Project structure/android/app/build/intermediates/transforms/dexMerger/debug/0

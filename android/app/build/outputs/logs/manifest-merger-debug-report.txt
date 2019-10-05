@@ -1,0 +1,643 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8f1d845249bcdda8af7d64b6a7fc041e/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-fetch-blob] /Users/kapil/Desktop/React Project structure/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_netinfo] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/kapil/Desktop/React Project structure/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-nested-scroll-view] /Users/kapil/Desktop/React Project structure/node_modules/react-native-nested-scroll-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-bottom-sheet-behavior] /Users/kapil/Desktop/React Project structure/node_modules/react-native-bottom-sheet-behavior/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/kapil/Desktop/React Project structure/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-i18n] /Users/kapil/Desktop/React Project structure/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/kapil/Desktop/React Project structure/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-snackbar] /Users/kapil/Desktop/React Project structure/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/kapil/Desktop/React Project structure/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/kapil/Desktop/React Project structure/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/857a7dd147cac8f4ef1883767ff78a24/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9617390ca3ed951c0b050e887ea9b72b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kapil/.gradle/caches/transforms-2/files-2.1/faf707d98653ebf52c64d7ee7d4f9abe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:17.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/cae457ad6dcd3d8932b3b362924cd494/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8104f1285452dcc69d895ada511a718e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d2b8f5af1155d7babf0fdcb7ce5957bc/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:17:1-29:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/kapil/.gradle/caches/transforms-2/files-2.1/729e6ba02d70a61ddc6465a736709648/AndroidManifest.xml:2:1-11:12
+MERGED from [:@terrylinla_react-native-sketch-canvas] /Users/kapil/Desktop/React Project structure/node_modules/@terrylinla/react-native-sketch-canvas/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/kapil/Desktop/React Project structure/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/48e1b6a1b66c4c8d86a04a551377ee2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a80420955a12938a215ffc12d46d13e4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8e113fa77a81f072404e222e7f30d963/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ecd5b2fe34bc0e708c819ff6750684eb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a56e9cd2c62cb2b607ad221d40827a0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e096a36cc91d99d5f342a81680fab4b0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/dd961f3aa8c581640f0549d96a3d7d02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d5ad8fcce814568e53f599d1bdefd1b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7e6982f2d972bb871fa539f8404439ef/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/87b98122c86ad5e63f532b905be0691e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5d585c58b57538e64bd52e662cda9eb5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a2a1fd798c07d7c252daa0845c8fcc0b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/37807b312bdf47be819edda08eae715e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/edfe284ac37e0f5dd8daedba1b19c476/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d1b5f402743d1ce578b3fc28cd7a87b7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2b2f643ff5b843fca39978556a3e13cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/41828467786555e5f5cac90c62d11cd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/f47311aa6c385f157b584acb521cd637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/3ecb8f38b0356a92a84a1ed4f68fc90c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1b41a92f36cab2db04f1076c145e9140/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d41a6be33c1a05b2a3b06f013970e9dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/b97a6d8692dc66c1cdd15af4bec24f56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2cdbbd1280eab0e01271c3f438f362d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d360e0d8b448ec485c56290a04d9fe97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7bf99188904c5973e1c3127026cd428d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e0d5eec37658729408076f2bf4e37baf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0c3405f195d88822b676d4c5506e04be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/06d50a888ed2cea35e66dbc12e3739d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/133390883dfdc8b3caeca82124e1783c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9ed79b956e3d1cb824a529f5810a7391/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2bcbda07a14c8f034a25a83c73771f9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/80874b38ae481001352c0d842053ba95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/069c94bbfaa5a02a7dc9502955e7cc4f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d9db4cfe2048134ef9074ce573bfcbe8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d53e6003622caa424c69666b25a0e7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d94736b568e91ffb7d7e0baf1e58651b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/568201cd6072afe21b756dc2dff8eeb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/27a9577406d4db048b1ac040b3b72a49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ba8b26df15cae6f0cba6045c00fbeb63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1aa48a0b5dfb10eb7d533fcdcdc9562f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/93b588107c84b9876d1a225927ae68c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2f3e09ceda4db3a4a16b2621441f6645/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/64a6f006424d027632f0dda403c78f79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0dc31e7d3d3aad2f5b938b15ba1feb70/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:5:1-77
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:5:18-74
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:6:3-64
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:6:20-61
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:7:3-78
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:7:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:10:5-49:19
+MERGED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:10:5-49:19
+MERGED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:10:5-49:19
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-fetch-blob] /Users/kapil/Desktop/React Project structure/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] /Users/kapil/Desktop/React Project structure/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-splash-screen] /Users/kapil/Desktop/React Project structure/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/kapil/Desktop/React Project structure/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.60.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/857a7dd147cac8f4ef1883767ff78a24/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/857a7dd147cac8f4ef1883767ff78a24/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9617390ca3ed951c0b050e887ea9b72b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9617390ca3ed951c0b050e887ea9b72b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:17.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/cae457ad6dcd3d8932b3b362924cd494/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/cae457ad6dcd3d8932b3b362924cd494/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8104f1285452dcc69d895ada511a718e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8104f1285452dcc69d895ada511a718e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d2b8f5af1155d7babf0fdcb7ce5957bc/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d2b8f5af1155d7babf0fdcb7ce5957bc/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7e6982f2d972bb871fa539f8404439ef/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7e6982f2d972bb871fa539f8404439ef/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/87b98122c86ad5e63f532b905be0691e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/87b98122c86ad5e63f532b905be0691e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5d585c58b57538e64bd52e662cda9eb5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5d585c58b57538e64bd52e662cda9eb5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a2a1fd798c07d7c252daa0845c8fcc0b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a2a1fd798c07d7c252daa0845c8fcc0b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/37807b312bdf47be819edda08eae715e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/37807b312bdf47be819edda08eae715e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/edfe284ac37e0f5dd8daedba1b19c476/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/edfe284ac37e0f5dd8daedba1b19c476/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d1b5f402743d1ce578b3fc28cd7a87b7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d1b5f402743d1ce578b3fc28cd7a87b7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/069c94bbfaa5a02a7dc9502955e7cc4f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/069c94bbfaa5a02a7dc9502955e7cc4f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:14:7-52
+	tools:targetApi
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:11:7-38
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:18:1-128
+	android:resource
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:18:83-125
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:18:12-82
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:20:3-98
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:20:12-95
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:21:7-25:13
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:21:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:22:5-24:21
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:23:7-68
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:23:15-65
+activity#com.dummynew.SplashScreen
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:27:7-36:20
+	android:label
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:28:8-38
+	android:theme
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.dummynew.MainActivity
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:38:10-45:18
+	android:label
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:40:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:42:9-51
+	android:exported
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:43:11-34
+	android:configChanges
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:41:9-79
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:39:9-37
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:48:7-84
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml:48:17-81
+uses-sdk
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8f1d845249bcdda8af7d64b6a7fc041e/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8f1d845249bcdda8af7d64b6a7fc041e/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-fetch-blob] /Users/kapil/Desktop/React Project structure/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /Users/kapil/Desktop/React Project structure/node_modules/react-native-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_netinfo] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/kapil/Desktop/React Project structure/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/kapil/Desktop/React Project structure/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-nested-scroll-view] /Users/kapil/Desktop/React Project structure/node_modules/react-native-nested-scroll-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-nested-scroll-view] /Users/kapil/Desktop/React Project structure/node_modules/react-native-nested-scroll-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-bottom-sheet-behavior] /Users/kapil/Desktop/React Project structure/node_modules/react-native-bottom-sheet-behavior/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-bottom-sheet-behavior] /Users/kapil/Desktop/React Project structure/node_modules/react-native-bottom-sheet-behavior/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/kapil/Desktop/React Project structure/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/kapil/Desktop/React Project structure/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Users/kapil/Desktop/React Project structure/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Users/kapil/Desktop/React Project structure/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/kapil/Desktop/React Project structure/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/kapil/Desktop/React Project structure/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] /Users/kapil/Desktop/React Project structure/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snackbar] /Users/kapil/Desktop/React Project structure/node_modules/react-native-snackbar/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/kapil/Desktop/React Project structure/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/kapil/Desktop/React Project structure/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/kapil/Desktop/React Project structure/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/kapil/Desktop/React Project structure/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/857a7dd147cac8f4ef1883767ff78a24/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/857a7dd147cac8f4ef1883767ff78a24/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9617390ca3ed951c0b050e887ea9b72b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9617390ca3ed951c0b050e887ea9b72b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kapil/.gradle/caches/transforms-2/files-2.1/faf707d98653ebf52c64d7ee7d4f9abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kapil/.gradle/caches/transforms-2/files-2.1/faf707d98653ebf52c64d7ee7d4f9abe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/cae457ad6dcd3d8932b3b362924cd494/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/cae457ad6dcd3d8932b3b362924cd494/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8104f1285452dcc69d895ada511a718e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8104f1285452dcc69d895ada511a718e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d2b8f5af1155d7babf0fdcb7ce5957bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d2b8f5af1155d7babf0fdcb7ce5957bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/kapil/.gradle/caches/transforms-2/files-2.1/729e6ba02d70a61ddc6465a736709648/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kapil/.gradle/caches/transforms-2/files-2.1/729e6ba02d70a61ddc6465a736709648/AndroidManifest.xml:7:5-9:41
+MERGED from [:@terrylinla_react-native-sketch-canvas] /Users/kapil/Desktop/React Project structure/node_modules/@terrylinla/react-native-sketch-canvas/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@terrylinla_react-native-sketch-canvas] /Users/kapil/Desktop/React Project structure/node_modules/@terrylinla/react-native-sketch-canvas/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kapil/Desktop/React Project structure/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kapil/Desktop/React Project structure/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/48e1b6a1b66c4c8d86a04a551377ee2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/48e1b6a1b66c4c8d86a04a551377ee2d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a80420955a12938a215ffc12d46d13e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a80420955a12938a215ffc12d46d13e4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8e113fa77a81f072404e222e7f30d963/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/8e113fa77a81f072404e222e7f30d963/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ecd5b2fe34bc0e708c819ff6750684eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ecd5b2fe34bc0e708c819ff6750684eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a56e9cd2c62cb2b607ad221d40827a0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a56e9cd2c62cb2b607ad221d40827a0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e096a36cc91d99d5f342a81680fab4b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e096a36cc91d99d5f342a81680fab4b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/dd961f3aa8c581640f0549d96a3d7d02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/dd961f3aa8c581640f0549d96a3d7d02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d5ad8fcce814568e53f599d1bdefd1b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d5ad8fcce814568e53f599d1bdefd1b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7e6982f2d972bb871fa539f8404439ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7e6982f2d972bb871fa539f8404439ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/87b98122c86ad5e63f532b905be0691e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/87b98122c86ad5e63f532b905be0691e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5d585c58b57538e64bd52e662cda9eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5d585c58b57538e64bd52e662cda9eb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a2a1fd798c07d7c252daa0845c8fcc0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/a2a1fd798c07d7c252daa0845c8fcc0b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/37807b312bdf47be819edda08eae715e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/37807b312bdf47be819edda08eae715e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/edfe284ac37e0f5dd8daedba1b19c476/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/edfe284ac37e0f5dd8daedba1b19c476/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d1b5f402743d1ce578b3fc28cd7a87b7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d1b5f402743d1ce578b3fc28cd7a87b7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2b2f643ff5b843fca39978556a3e13cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2b2f643ff5b843fca39978556a3e13cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/41828467786555e5f5cac90c62d11cd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/41828467786555e5f5cac90c62d11cd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/f47311aa6c385f157b584acb521cd637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/f47311aa6c385f157b584acb521cd637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/3ecb8f38b0356a92a84a1ed4f68fc90c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/3ecb8f38b0356a92a84a1ed4f68fc90c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1b41a92f36cab2db04f1076c145e9140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1b41a92f36cab2db04f1076c145e9140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d41a6be33c1a05b2a3b06f013970e9dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d41a6be33c1a05b2a3b06f013970e9dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/b97a6d8692dc66c1cdd15af4bec24f56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/b97a6d8692dc66c1cdd15af4bec24f56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2cdbbd1280eab0e01271c3f438f362d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2cdbbd1280eab0e01271c3f438f362d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d360e0d8b448ec485c56290a04d9fe97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d360e0d8b448ec485c56290a04d9fe97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7bf99188904c5973e1c3127026cd428d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7bf99188904c5973e1c3127026cd428d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e0d5eec37658729408076f2bf4e37baf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/e0d5eec37658729408076f2bf4e37baf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0c3405f195d88822b676d4c5506e04be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0c3405f195d88822b676d4c5506e04be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/06d50a888ed2cea35e66dbc12e3739d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/06d50a888ed2cea35e66dbc12e3739d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/133390883dfdc8b3caeca82124e1783c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/133390883dfdc8b3caeca82124e1783c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9ed79b956e3d1cb824a529f5810a7391/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9ed79b956e3d1cb824a529f5810a7391/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2bcbda07a14c8f034a25a83c73771f9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2bcbda07a14c8f034a25a83c73771f9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/80874b38ae481001352c0d842053ba95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/80874b38ae481001352c0d842053ba95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/89b6fc1ea5d9aaf5a2e1b0e4e549c356/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/069c94bbfaa5a02a7dc9502955e7cc4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/069c94bbfaa5a02a7dc9502955e7cc4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d9db4cfe2048134ef9074ce573bfcbe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d9db4cfe2048134ef9074ce573bfcbe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d53e6003622caa424c69666b25a0e7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d53e6003622caa424c69666b25a0e7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d94736b568e91ffb7d7e0baf1e58651b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/d94736b568e91ffb7d7e0baf1e58651b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/568201cd6072afe21b756dc2dff8eeb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/568201cd6072afe21b756dc2dff8eeb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/27a9577406d4db048b1ac040b3b72a49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/27a9577406d4db048b1ac040b3b72a49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ba8b26df15cae6f0cba6045c00fbeb63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ba8b26df15cae6f0cba6045c00fbeb63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1aa48a0b5dfb10eb7d533fcdcdc9562f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/1aa48a0b5dfb10eb7d533fcdcdc9562f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/93b588107c84b9876d1a225927ae68c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/93b588107c84b9876d1a225927ae68c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2f3e09ceda4db3a4a16b2621441f6645/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/2f3e09ceda4db3a4a16b2621441f6645/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/64a6f006424d027632f0dda403c78f79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/64a6f006424d027632f0dda403c78f79/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0dc31e7d3d3aad2f5b938b15ba1feb70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0dc31e7d3d3aad2f5b938b15ba1feb70/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kapil/Desktop/React Project structure/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:@react-native-community_netinfo] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] /Users/kapil/Desktop/React Project structure/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/kapil/Desktop/React Project structure/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/kapil/Desktop/React Project structure/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/5e91d67782699e7a8f9dfbc805774521/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/7c82d6b4ec83b5f77763642d47699ffd/AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6e9374889045236d237671eaeee91011/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/ea91fac4d28e0146ce40724ba9b7a3d1/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.1] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9d188fdce6b6f0b34254c0893a4c95c7/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/9e4c3fccd2bbbc7f8725c5670b12f221/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/6d70956fc623373df7cfc54d49a69e23/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/44ad8e68b6e8235a3eedf8f3eb6973e5/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/0fe4c44b01a781e03ed5490a654ee199/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/123b9de61f9a0d62f7146ce1e7553317/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kapil/.gradle/caches/transforms-2/files-2.1/835ba0b8b9d4a9795560ab7152f03580/AndroidManifest.xml:24:13-58
