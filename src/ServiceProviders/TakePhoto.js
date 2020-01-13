@@ -4,15 +4,20 @@ import ImagePicker from 'react-native-image-picker';
 
 const options = {
     title: 'Select Profile picture',
-    
-    storageOptions: { skipBackup: true, path: 'images', cameraRoll: true, waitUntilSaved: true }
+    quality:0.5,
+    cameraType:'front',
+    allowsEditing:true,
+    noData:true,
+    maxWidth: 300,
+    maxHeight:300,
+    storageOptions: { skipBackup: true, path: 'images', cameraRoll: true, waitUntilSaved: false }
   };
 
 
   export const TakePhoto = function(callback){
     ImagePicker.showImagePicker(options, (response) => {
         console.log('Response = ', response);
-      
+      alert(JSON.stringify( response))
         if (response.didCancel) {
           console.log('User cancelled image picker');
         } else if (response.error) {

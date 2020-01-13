@@ -4,6 +4,7 @@ import "Helpers/global";
 import HelperMethods from "Helpers/Methods";
 import {TakePhoto} from 'ServiceProviders/TakePhoto'
 
+import CustomText from "AppLevelComponents/UI/CustomText";
 import AntDesign from 'react-native-vector-icons/AntDesign'
 import {camera } from "UIProps/Colors";
 import { Transition } from "react-navigation-fluid-transitions";
@@ -12,6 +13,7 @@ import EStyleSheet from "react-native-extended-stylesheet";
 import {Colors} from "UIProps/Colors";
 import { withNavigation } from "react-navigation";
 import Bottomsheet from "./Bottomsheet";
+import Icons from "./Icons";
 
 let valObj = {
   image: ""
@@ -28,6 +30,10 @@ class ProfilePic extends Component {
       this.setState({profilePic:pic})
   }
 
+  removePhoto = () => {
+    HelperMethods.animateLayout()
+    this.setState({profilePic:undefined})
+  }
   
   navigateProfile(){
     this.props.navigation.navigate('Profile')
@@ -35,6 +41,7 @@ class ProfilePic extends Component {
 
     tapFunc(){
       TakePhoto((resp) => {
+        HelperMethods.animateLayout()
         this.setState({profilePic:resp.uri})
       })
     }
@@ -43,20 +50,18 @@ class ProfilePic extends Component {
       let {profilePic} = this.state
       let {size,pic,style,showCameraIcon,canNavigateToProfile} = this.props
     return (
-      <TouchableOpacity onPress={ ()=> canNavigateToProfile ? this.navigateProfile() : this.tapFunc() }>
+      <TouchableOpacity style={{alignItems:'center'}} onPress={ ()=> this.tapFunc() }>
+        <View style={styles.circle}>
+          <Image style={{width:100,height:100,borderRadius:100}} source={{uri:profilePic == undefined ? 'https://chapters.theiia.org/central-mississippi/About/ChapterOfficers/person-placeholder.jpg' : profilePic }} />
+        </View>
+        <CustomText text="Upload photo" style={{ marginTop: 10 }} />
 
-      <View style={[styles.container,{...style},size && {width:size,height:size} ]}>
-      <Transition shared='profilePic'>
-          <Image style={{width:'100%',height:'100%',borderRadius:100}} resizeMode='cover' source={{uri:profilePic || pic}}  />
-          </Transition>
-          {showCameraIcon && 
-
-          <View style={styles.circle}>
-            <AntDesign name='camera' size={13} color={Colors.accent} />
-          </View>
-          }
-      </View>
-          </TouchableOpacity>
+      {profilePic && 
+        <TouchableOpacity onPress={this.removePhoto}  style={{position:'absolute',top:10,backgroundColor:'#000',right:0,borderRadius:100/4,height:25}} >
+          <Icons lib='Material' name='close' size={23} color='red' />
+        </TouchableOpacity> 
+      }
+      </TouchableOpacity>
     );
   }
 }
@@ -77,13 +82,9 @@ const styles = EStyleSheet.create({
   },
 
   circle: {
-    width:  20,
-    height: 20,
     borderRadius: 100 / 2,
-    backgroundColor: Colors.white,
-    position:'absolute',
-    bottom:5,
-    right:0,
+    backgroundColor: "#F7FAFD",
+    borderColor: Colors.blue,borderWidth: 1,
     alignItems: "center",
     justifyContent: "center"
   },
