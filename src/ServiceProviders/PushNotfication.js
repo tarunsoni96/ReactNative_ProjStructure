@@ -1,17 +1,40 @@
 import React, { Component } from "react";
-import { AsyncStorage } from "react-native";
+import {Linking,AppState, AsyncStorage } from "react-native";
+import HelperMethods from 'Helpers/Methods'
+
 import { Colors } from "UIProps/Colors";
 import firebase from "react-native-firebase";
-import Constants from 'Helpers/Constants'
-import AsyncStorageHandler from "StorageHelpers/AsyncStorageHandler";
-import {registerDevice} from 'ServiceProviders/ApiCaller'
-export default class PushNotification extends Component {
+import { withNavigation } from "react-navigation";
+
+ class PushNotification extends Component {
+
+  state = {
+    appState: AppState.currentState
+  }
   async componentDidMount() {
+    AppState.addEventListener('change', this._handleAppStateChange);
+
     this.checkPermission();
     this.createNotificationListeners(); //add this line
+
+    this.notificationOpenedListener = firebase.notifications().onNotificationOpened((notificationOpen) => {
+      this.props.navigation.navigate('home')
+      // Get the action triggered by the notification being opened
+      const action = notificationOpen.action;
+      const notification = notificationOpen.notification;
+  });
+}
+
+_handleAppStateChange = (nextAppState) => {
+  if (this.state.appState.match(/inactive|background/) && nextAppState === 'active') {
+    this.getToken()
   }
+  this.setState({appState: nextAppState});
+}
 
   componentWillUnmount() {
+    AppState.removeEventListener('change', this._handleAppStateChange);
+
     this.notificationListener;
     this.notificationOpenedListener;
   }
@@ -29,10 +52,10 @@ export default class PushNotification extends Component {
     this.notificationListener = firebase
       .notifications()
       .onNotification(notification => {
-        const { title, body } = notification;
+        const { title, body,click_action } = notification;
         const localNotificationSound = new firebase.notifications.Notification({
           sound: "default",
-          show_in_foreground: true
+          show_in_foreground: true,
         })
 
           // .setNotificationId(notification.notificationId)
@@ -52,28 +75,10 @@ export default class PushNotification extends Component {
       firebase.notifications.Android.Importance.High
     ).setDescription("None");
     firebase.notifications().android.createChannel(channel);
-
-    /*
-     * If your app is in background, you can listen for when a notification is clicked / tapped / opened as follows:
-     * */
-    this.notificationOpenedListener = firebase
-      .notifications()
-      .onNotificationOpened(notificationOpen => {
-        const { title, body } = notificationOpen.notification;
-      });
-
-    /*
-     * If your app is closed, you can check if it was opened by a notification being clicked / tapped / opened as follows:
-     * */
-    const notificationOpen = await firebase
-      .notifications()
-      .getInitialNotification();
-    if (notificationOpen) {
-      const { title, body } = notificationOpen.notification;
-    }
   }
 
   async getToken() {
+    
     let fcmToken = await AsyncStorage.getItem("fcmToken");
     if (!fcmToken) {
       fcmToken = await firebase.messaging().getToken();
@@ -81,18 +86,38 @@ export default class PushNotification extends Component {
         await AsyncStorage.setItem("fcmToken", fcmToken);
       }
     }
-    
+    if(fcmToken){
+      this.props.tokenSetter(fcmToken)
+    }
     console.log(fcmToken);
   }
 
   async requestPermission() {
     try {
-      await firebase.messaging().requestPermission();
-      this.getToken();
-    } catch (error) {}
+      firebase.messaging().requestPermission().then((resp)=>{
+        this.getToken();
+      }).catch(() => {
+      if(HelperMethods.isPlatformIos()){
+        this.goToSettings()
+      } else {
+        this.requestPermission()
+      }
+      })
+    } catch (error) {
+    }
+  }
+
+  goToSettings(){
+    HelperMethods.showAlert('You have to enable notifications from the settings',"Go To Settings",'Cancel',()=>{
+      this.goToSettings()
+    },()=>{
+        Linking.openURL('app-settings://notification/LawApp')
+    },'Browse for now')
   }
 
   render() {
     return null;
   }
 }
+
+export default PushNotification

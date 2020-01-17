@@ -36,19 +36,12 @@ const HelperMethods = {
     btnNegative,
     onPress_btnNegative,
     onPress_btnPositive,
-    buttonNeutral,
-    onPressNeutral
   ) {
     Alert.alert(
       "Alert",
       message,
       [
-        buttonNeutral != undefined && {
-          text: buttonNeutral,
-          onPress: () => onPressNeutral()
-        },
-
-        {
+                {
           text: btnNegative,
           onPress:
             onPress_btnNegative == "" ? () => {} : () => onPress_btnNegative(),
