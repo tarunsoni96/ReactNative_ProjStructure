@@ -38,24 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/678a6c9b3389bcf087dfa8591f23b068/res/values-zu/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/099131d11944576d9476417e23a28a51/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
+                        "startOffsets": "205",
+                        "endColumns": "110",
+                        "endOffsets": "315"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "47",
                         "startColumns": "4",
-                        "startOffsets": "4032",
-                        "endColumns": "190",
-                        "endOffsets": "4218"
+                        "startOffsets": "5591",
+                        "endColumns": "114",
+                        "endOffsets": "5701"
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/48b839d18e8bd961988d62f5f530224a/res/values-zu/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/273801620cf64bc00c0f79fcfa884110/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -89,20 +89,20 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/decbe9194e0756d3a17786f5e9f81258/res/values-zu/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/47fc6646369fb6d159521f32397d183d/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "110",
-                        "endOffsets": "315"
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
                     },
                     "to": {
-                        "startLines": "47",
+                        "startLines": "37",
                         "startColumns": "4",
-                        "startOffsets": "5591",
-                        "endColumns": "114",
-                        "endOffsets": "5701"
+                        "startOffsets": "4032",
+                        "endColumns": "190",
+                        "endOffsets": "4218"
                     }
                 }
             ]

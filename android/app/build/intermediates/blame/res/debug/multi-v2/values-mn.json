@@ -4,7 +4,7 @@
             "outputFile": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/48b839d18e8bd961988d62f5f530224a/res/values-mn/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/273801620cf64bc00c0f79fcfa884110/res/values-mn/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/678a6c9b3389bcf087dfa8591f23b068/res/values-mn/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/47fc6646369fb6d159521f32397d183d/res/values-mn/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -35,6 +35,23 @@
                         "startOffsets": "3961",
                         "endColumns": "208",
                         "endOffsets": "4165"
+                    }
+                },
+                {
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/099131d11944576d9476417e23a28a51/res/values-mn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5499",
+                        "endColumns": "103",
+                        "endOffsets": "5598"
                     }
                 },
                 {
@@ -86,23 +103,6 @@
                         "startOffsets": "105,218,318,431,518,624,736,818,900,991,1084,1180,1276,1374,1467,1562,1654,1745,1835,1917,2026,2130,2227,2335,2436,2539,2698,5704",
                         "endColumns": "112,99,112,86,105,111,81,81,90,92,95,95,97,92,94,91,90,89,81,108,103,96,107,100,102,158,96,80",
                         "endOffsets": "213,313,426,513,619,731,813,895,986,1079,1175,1271,1369,1462,1557,1649,1740,1830,1912,2021,2125,2222,2330,2431,2534,2693,2790,5780"
-                    }
-                },
-                {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/decbe9194e0756d3a17786f5e9f81258/res/values-mn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "99",
-                        "endOffsets": "304"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5499",
-                        "endColumns": "103",
-                        "endOffsets": "5598"
                     }
                 }
             ]

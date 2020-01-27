@@ -33,7 +33,7 @@
     <string gender="unknown" name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
     <string gender="unknown" name="com_facebook_like_button_liked">J’aime déjà</string>
     <string gender="unknown" name="com_facebook_like_button_not_liked">J’aime</string>
-    <string gender="unknown" name="com_facebook_loading">Chargement...</string>
+    <string gender="unknown" name="com_facebook_loading">Chargement\u2026</string>
     <string gender="unknown" name="com_facebook_loginview_cancel_action">Annuler</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button">Connectez-vous</string>
     <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Continuer avec Facebook</string>

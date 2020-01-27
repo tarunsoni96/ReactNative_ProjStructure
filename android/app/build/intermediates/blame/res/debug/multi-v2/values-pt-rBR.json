@@ -4,20 +4,20 @@
             "outputFile": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/decbe9194e0756d3a17786f5e9f81258/res/values-pt-rBR/values.xml",
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/47fc6646369fb6d159521f32397d183d/res/values-pt-rBR/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "209",
-                        "endColumns": "102",
-                        "endOffsets": "311"
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
                     },
                     "to": {
-                        "startLines": "47",
+                        "startLines": "37",
                         "startColumns": "4",
-                        "startOffsets": "5595",
-                        "endColumns": "106",
-                        "endOffsets": "5697"
+                        "startOffsets": "4014",
+                        "endColumns": "203",
+                        "endOffsets": "4213"
                     }
                 },
                 {
@@ -38,23 +38,6 @@
                     }
                 },
                 {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/678a6c9b3389bcf087dfa8591f23b068/res/values-pt-rBR/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4014",
-                        "endColumns": "203",
-                        "endOffsets": "4213"
-                    }
-                },
-                {
                     "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/32b9eb00bc65c6046aa552146d38731a/res/values-pt-rBR/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -72,6 +55,40 @@
                     }
                 },
                 {
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/273801620cf64bc00c0f79fcfa884110/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "194",
+                        "endColumns": "99",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5702",
+                        "endColumns": "103",
+                        "endOffsets": "5801"
+                    }
+                },
+                {
+                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/099131d11944576d9476417e23a28a51/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "102",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5595",
+                        "endColumns": "106",
+                        "endOffsets": "5697"
+                    }
+                },
+                {
                     "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/8ffeac48a426562cb9186dd8320f1877/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
@@ -86,23 +103,6 @@
                         "startOffsets": "5891",
                         "endColumns": "100",
                         "endOffsets": "5987"
-                    }
-                },
-                {
-                    "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/48b839d18e8bd961988d62f5f530224a/res/values-pt-rBR/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "194",
-                        "endColumns": "99",
-                        "endOffsets": "293"
-                    },
-                    "to": {
-                        "startLines": "48",
-                        "startColumns": "4",
-                        "startOffsets": "5702",
-                        "endColumns": "103",
-                        "endOffsets": "5801"
                     }
                 }
             ]

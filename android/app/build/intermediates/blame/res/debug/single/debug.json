@@ -1,7 +1,7 @@
 [
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -37,7 +37,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/layout/redbox_item_title.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -117,7 +117,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_auth_dialog_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/xml/rn_dev_preferences.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -197,7 +197,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -221,7 +221,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_button_like_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_button_like_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
@@ -237,7 +237,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/layout/com_facebook_activity_layout.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -277,7 +277,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_img_logo.png.flat",
@@ -289,7 +289,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
@@ -301,7 +301,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
@@ -313,7 +313,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -357,7 +357,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable/com_facebook_button_send_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable/com_facebook_button_send_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -365,7 +365,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -389,7 +389,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/layout/redbox_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
@@ -397,7 +397,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_header_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_auth_dialog_header_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -497,7 +497,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/animator_mtrl_fab_hide_motion_spec.xml.flat",
@@ -541,7 +541,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/2cfc38abd7f1b6ed46935e4c4e6769ac/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/173f5c88bc44b19194244f35768c6dba/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
@@ -597,7 +597,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -629,7 +629,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/interpolator_mtrl_fast_out_linear_in.xml.flat",
@@ -693,7 +693,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -709,7 +709,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_com_facebook_button_text_color.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/color/com_facebook_button_text_color.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/color/com_facebook_button_text_color.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -721,7 +721,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -753,7 +753,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_notification.png.flat",
@@ -841,7 +841,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
@@ -861,7 +861,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
@@ -905,7 +905,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_com_facebook_login_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/layout/com_facebook_login_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/layout/com_facebook_login_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -957,7 +957,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_button_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_button_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_fast_out_slow_in.xml.flat",
@@ -965,7 +965,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/drawable/redbox_top_border_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_mtrl_chip_text_color.xml.flat",
@@ -1009,7 +1009,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_src_images_heart.png.flat",
@@ -1117,7 +1117,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1209,11 +1209,11 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1221,7 +1221,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -1233,7 +1233,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1281,7 +1281,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-xhdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-xhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
@@ -1293,7 +1293,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/2cfc38abd7f1b6ed46935e4c4e6769ac/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/173f5c88bc44b19194244f35768c6dba/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1381,7 +1381,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1429,7 +1429,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -1461,7 +1461,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/layout/dev_loading_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1497,7 +1497,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1525,7 +1525,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/2cfc38abd7f1b6ed46935e4c4e6769ac/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/173f5c88bc44b19194244f35768c6dba/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
@@ -1549,7 +1549,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
@@ -1585,7 +1585,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1613,7 +1613,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
@@ -1633,7 +1633,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
@@ -1641,7 +1641,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_send_button_icon.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable/com_facebook_send_button_icon.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable/com_facebook_send_button_icon.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -1681,7 +1681,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/layout/com_facebook_tooltip_bubble.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/layout/com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
@@ -1689,7 +1689,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
@@ -1717,7 +1717,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1737,7 +1737,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_launch_screen.png.flat",
@@ -1769,7 +1769,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
@@ -1857,7 +1857,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1901,7 +1901,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/layout/fps_view.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_mtrl_tabs_legacy_text_color_selector.xml.flat",
@@ -1909,7 +1909,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
@@ -1937,7 +1937,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -2021,7 +2021,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -2041,7 +2041,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_favicon_blue.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_favicon_blue.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_favicon_blue.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
@@ -2093,7 +2093,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
@@ -2149,7 +2149,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-hdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-hdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -2177,7 +2177,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
@@ -2217,7 +2217,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_ic_mtrl_chip_close_circle.xml.flat",
@@ -2233,7 +2233,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
@@ -2317,7 +2317,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2337,7 +2337,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable/com_facebook_button_icon.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
@@ -2409,7 +2409,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -2425,7 +2425,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/cb1cbe95e7abad5eb6d9d54b4dd7fc8c/res/color/com_facebook_send_button_text_color.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/ddf9653750215d87a921ab8653805fae/res/color/com_facebook_send_button_text_color.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -2465,7 +2465,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/26d19f512fb74c79543b4c395f7be6a8/res/drawable-mdpi-v4/com_facebook_close.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/28c403354f70c2a61a2218b8c0549cdd/res/drawable-mdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/color_mtrl_tabs_colored_ripple_color.xml.flat",
@@ -2541,7 +2541,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -2601,7 +2601,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -2613,7 +2613,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/f9335d8641efa7b43c91f078c1399941/res/layout/redbox_item_frame.xml"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/c0f52b0879dbe06fdd855da4b61935c9/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
@@ -2625,7 +2625,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -2645,7 +2645,7 @@
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/6801f591437edb1426c803404b666b59/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/hermes/.gradle/caches/transforms-2/files-2.1/a31f5bc85c7357a581a8ef98233c5311/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/hermes/Desktop/Folders/React Project structure/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",

@@ -134,6 +134,8 @@ androidx/versionedparcelable/NonParcelField.class
 androidx/versionedparcelable/ParcelField.class
 androidx/versionedparcelable/VersionedParcelize.class
 androidx/viewpager/widget/ViewPager$DecorView.class
+com/android/installreferrer/api/InstallReferrerClient$InstallReferrerResponse.class
+com/android/installreferrer/api/InstallReferrerClientImpl$ClientState.class
 com/bottomsheetbehavior/RNBottomSheetBehavior$State.class
 com/dummynew/BuildConfig.class
 com/dummynew/MainApplication$1.class
