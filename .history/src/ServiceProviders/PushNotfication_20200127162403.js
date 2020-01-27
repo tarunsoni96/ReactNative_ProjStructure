@@ -123,7 +123,7 @@ _handleAppStateChange = (nextAppState) => {
   goToSettings(){
     HelperMethods.showAlert('You have to enable notifications from the settings',"Go To Settings",'Cancel',()=>{
     },()=>{
-        Linking.openURL('app-settings://notification')
+        Linking.openURL('app-settings://notification/LawApp')
     },'Browse for now')
   }
 
