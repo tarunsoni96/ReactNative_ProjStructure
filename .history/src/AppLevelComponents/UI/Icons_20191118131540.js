@@ -15,7 +15,7 @@ import EvilIcons from "react-native-vector-icons/EvilIcons";
 let iconSize = 23;
 class Icons extends Component {
   returnIcon() {
-    const { lib, name,onPress, color, size, style } = this.props;
+    const { lib, name, color, size, style } = this.props;
     switch (lib) {
       case "AntDesign":
         return (
@@ -24,7 +24,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -35,7 +34,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -47,7 +45,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -58,7 +55,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -69,7 +65,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -80,7 +75,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -91,7 +85,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -102,7 +95,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -113,7 +105,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
@@ -124,7 +115,6 @@ class Icons extends Component {
             size={size || iconSize}
             color={color || "#000"}
             style={style}
-            onPress={onPress}
           />
         );
 
