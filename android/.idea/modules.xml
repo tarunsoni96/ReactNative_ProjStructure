@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android/@react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLOYNC.iml" filepath="$PROJECT_DIR$/SOLOYNC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-blur-overlay/android/react-native-blur-overlay.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-blur-overlay/android/react-native-blur-overlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-exception-handler/android/react-native-exception-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-exception-handler/android/react-native-exception-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-snackbar/android/react-native-snackbar.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-snackbar/android/react-native-snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-range-slider/android/rn-range-slider.iml" filepath="$PROJECT_DIR$/../node_modules/rn-range-slider/android/rn-range-slider.iml" />
+    </modules>
+  </component>
+</project>

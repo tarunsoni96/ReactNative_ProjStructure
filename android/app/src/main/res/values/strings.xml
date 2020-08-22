@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TagMango</string>
+    <string name="default_notification_channel_id">customSoundNotificationChannelId</string>
+     <string name="facebook_app_id">767976760301446</string>
+<string name="fb_login_protocol_scheme">fb767976760301446</string>
+<string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+<string name="CodePushDeploymentKey" moduleConfig="true" translatable="false">3f91b4cb-d8f2-46cb-9b5f-188d24c7166d</string>
+
+</resources>

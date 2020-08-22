@@ -1,0 +1,7 @@
+export const addService = "ADD_SERVICE"
+export const removeService = "REMOVE_SERVICE"
+export const clearService = "clearService"
+export const decreaseServiceQty = "decreaseServiceQty"
+export const increaseServiceQty = "increaseServiceQty"
+export const changeUserType = "changeUserType"
+export const setTierPurchaseData = "setTierPurchaseData"

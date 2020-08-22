@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/geolocation/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@terrylinla/react-native-sketch-canvas/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-cardview/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-exception-handler/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-firebase/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-google-signin/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-i18n/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-image-picker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-interactable/lib/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-nested-scroll-view/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-notification-sounds/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-reanimated/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-snackbar/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-svg/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-wheel-datepicker/android" />
+            <option value="$PROJECT_DIR$/../node_modules/rn-range-slider/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
