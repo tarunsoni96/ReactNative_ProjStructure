@@ -14,12 +14,12 @@ import backBtn from "assets/svgIcons/back.svg";
 import { withNavigation } from "react-navigation";
 import Icons from "AppLevelComponents/UI/Icons";
 
-class Header extends Component {
+class TGHeader extends Component {
   render() {
     let commonVal = widthPercentageToDP(80);
     const {
       x,
-      hideBG = true,
+      hideBG,
       back,
       hideBack,
       hideTitle,
@@ -146,4 +146,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default withNavigation(Header);
+export default withNavigation(TGHeader);

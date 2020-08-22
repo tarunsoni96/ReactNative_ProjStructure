@@ -16,6 +16,7 @@ import BackHandlerSingleton from "ServiceProviders/BackHandlerSingleton";
 import { heightPercentageToDP, widthPercentageToDP } from "react-native-responsive-screen";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 import LinearGradient from "react-native-linear-gradient";
+import Header from "./Header";
 
 export default class Container extends Component {
   renderForIOS() {
@@ -25,7 +26,9 @@ export default class Container extends Component {
       scrollEnabled,
       safeAreaColor,
       onRefresh,
+      showHeader = true,
       contentStyle,
+      headerTitle,
       extraScrollheight,
       showGradient,
     } = this.props;
@@ -34,6 +37,15 @@ export default class Container extends Component {
         <SafeAreaView style={{ flex: 0, backgroundColor: safeAreaColor  || '#fff' }} />
         <SafeAreaView style={{ flex: 1,backgroundColor:safeAreaColor }}>
           <StatusBar translucent={true} barStyle="dark-content" />
+          {showHeader === false ?
+
+          null :
+
+        <View style={{padding:global.contentPadding}} >
+
+          <Header title={headerTitle} />
+        </View>
+          }
           <KeyboardAwareScrollView
             behavior="padding"
             ref={(ref) => {
@@ -68,13 +80,21 @@ export default class Container extends Component {
       onRefresh,
       scrollEnabled,
       contentStyle,
+      showHeader = true,
       extraScrollheight,
-      showGradient
+      showGradient,
+      headerTitle,
+
     } = this.props;
 
     return (
       <>
         <StatusBar backgroundColor="#fff" barStyle={"dark-content"} />
+        <View style={{padding:global.contentPadding}} >
+
+          <Header title={headerTitle} />
+        </View>
+
         <KeyboardAwareScrollView
           behavior="padding"
           refreshControl={

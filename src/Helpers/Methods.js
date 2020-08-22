@@ -24,7 +24,7 @@ import MobxStore from "StorageHelpers/MobxStore";
 
 let timer;
 // let baseUrl = 'http://192.168.29.212:80/'
-let baseUrl = "http://dev-tagmangoapi.ap-south-1.elasticbeanstalk.com";
+let baseUrl = "https://my-json-server.typicode.com/tarunsoni96/FakeRestData/";
 let counter = 2;
 
 var CancelToken = axios.CancelToken;
@@ -74,8 +74,13 @@ const HelperMethods = {
   isConnected: function() {
     return new Promise((resolve, reject) => {
       NetInfo.fetch().then((state) => {
-        console.log("Connection type", state.type);
-        resolve(state.isConnected);
+        if(this.isPlatformIos()){
+
+          resolve(true);
+        } else {
+
+          resolve(state.isConnected);
+        }
       });
     });
   },

@@ -100,7 +100,7 @@ class NetworkAwareContent extends Component {
 
   render() {
     const {isApiCall,data,noDataMsg} = this.props
-    return <View style={{flex:1}}>
+    return <View>
     {!isApiCall && data.length == 0 ? 
     <NoDataView noDataMsg={noDataMsg} />
     :

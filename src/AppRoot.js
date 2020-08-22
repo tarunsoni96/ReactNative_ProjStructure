@@ -27,6 +27,7 @@ import Login from "Screens/Login/Login";
 import ForgotPassword from "Screens/ForgotPassword/ForgotPassword";
 import ResetPassword from "Screens/ResetPassword/ResetPassword";
 import Dashboard from "Screens/Dashboard/Dashboard";
+import Shopping from "Screens/Shopping/Shopping";
 
 let transitionSpeed = 650;
 let tabIconSize = 18;
@@ -81,7 +82,8 @@ const LoginStack = createStackNavigator({
 
 const DashboardStack = createStackNavigator(
   {
-    dashboard:Dashboard
+    dashboard:Dashboard,
+    Shopping,
   },
   {
     initialRouteName: "dashboard",
