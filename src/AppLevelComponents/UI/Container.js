@@ -13,7 +13,10 @@ import "Helpers/global";
 import EStyleSheet from "react-native-extended-stylesheet";
 import { Colors } from "UIProps/Colors";
 import BackHandlerSingleton from "ServiceProviders/BackHandlerSingleton";
-import { heightPercentageToDP, widthPercentageToDP } from "react-native-responsive-screen";
+import {
+  heightPercentageToDP,
+  widthPercentageToDP,
+} from "react-native-responsive-screen";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 import LinearGradient from "react-native-linear-gradient";
 import Header from "./Header";
@@ -34,18 +37,16 @@ export default class Container extends Component {
     } = this.props;
     return (
       <>
-        <SafeAreaView style={{ flex: 0, backgroundColor: safeAreaColor  || '#fff' }} />
-        <SafeAreaView style={{ flex: 1,backgroundColor:safeAreaColor }}>
+        <SafeAreaView
+          style={{ flex: 0, backgroundColor: safeAreaColor || "#fff" }}
+        />
+        <SafeAreaView style={{ flex: 1, backgroundColor: safeAreaColor }}>
           <StatusBar translucent={true} barStyle="dark-content" />
-          {showHeader === false ?
-
-          null :
-
-        <View style={{padding:global.contentPadding}} >
-
-          <Header title={headerTitle} />
-        </View>
-          }
+          {showHeader === false ? null : (
+            <View style={{ padding: global.contentPadding }}>
+              <Header title={headerTitle} />
+            </View>
+          )}
           <KeyboardAwareScrollView
             behavior="padding"
             ref={(ref) => {
@@ -64,10 +65,14 @@ export default class Container extends Component {
             contentContainerStyle={[styles.contentFixed, { ...contentStyle }]}
             behavior="padding"
           >
-          <View style={{marginBottom:showGradient ? widthPercentageToDP(30) : 0,flex:1}} >
-
+            <View
+              style={{
+                marginBottom: showGradient ? widthPercentageToDP(30) : 0,
+                flex: 1,
+              }}
+            >
               {this.props.children}
-          </View>
+            </View>
           </KeyboardAwareScrollView>
         </SafeAreaView>
       </>
@@ -84,26 +89,26 @@ export default class Container extends Component {
       extraScrollheight,
       showGradient,
       headerTitle,
-
     } = this.props;
 
     return (
       <>
         <StatusBar backgroundColor="#fff" barStyle={"dark-content"} />
-        <View style={{padding:global.contentPadding}} >
 
-          <Header title={headerTitle} />
-        </View>
-
+        {showHeader === false ? null : (
+          <View style={{ padding: global.contentPadding }}>
+            <Header title={headerTitle} />
+          </View>
+        )}
         <KeyboardAwareScrollView
           behavior="padding"
           refreshControl={
-            onRefresh && 
-            <RefreshControl
-            
-              refreshing={refreshingData}
-              onRefresh={onRefresh || undefined}
-            />
+            onRefresh && (
+              <RefreshControl
+                refreshing={refreshingData}
+                onRefresh={onRefresh || undefined}
+              />
+            )
           }
           extraScrollHeight={extraScrollheight || undefined}
           scrollEnabled={scrollEnabled == undefined ? true : scrollEnabled}
@@ -111,12 +116,14 @@ export default class Container extends Component {
           nestedScrollEnabled
           contentContainerStyle={[styles.contentFixed, { ...contentStyle }]}
         >
-          <View style={{marginBottom:showGradient ? widthPercentageToDP(30) : 0,flex:1}} >
-       
-          {this.props.children}
-      
+          <View
+            style={{
+              marginBottom: showGradient ? widthPercentageToDP(30) : 0,
+              flex: 1,
+            }}
+          >
+            {this.props.children}
           </View>
-        
         </KeyboardAwareScrollView>
         {/* <LinearGradient
     style={{position:'absolute', bottom:0, width:'100%', height:100}}

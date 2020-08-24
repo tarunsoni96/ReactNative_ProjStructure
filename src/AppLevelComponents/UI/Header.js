@@ -33,7 +33,7 @@ class Header extends Component {
       <NoHorizontalMarginView verticalAlso>
         <View
           style={{
-            marginBottom: hideBG ? widthPercentageToDP(8)  :  marginBottom || widthPercentageToDP(63),
+            marginBottom: hideBG ? widthPercentageToDP(2)  :  marginBottom || widthPercentageToDP(63),
           }}
         >
           <ImageBackground

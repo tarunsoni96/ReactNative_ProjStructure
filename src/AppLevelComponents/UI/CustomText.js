@@ -44,7 +44,7 @@ export default class CustomText extends Component {
               style={[
                 styles.text,
                 {
-                  fontSize:size || 18.5,
+                  fontSize:size || 16,
                   color: color || Colors.textDark,
                   top:1,
                   fontFamily: font || (regular ? Fonts.regular :  Fonts.medium),

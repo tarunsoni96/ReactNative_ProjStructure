@@ -43,7 +43,7 @@ class Filters extends Component {
   renderItem = ({ item, i }) => {
     return (
       <TouchableWithoutFeedback onPress={() => this.getItems(item)}>
-        <Card containerStyle={{ marginTop: 20,backgroundColor:this.state.showingFilter == item.name ? '#C0C0C0' : undefined ,  borderRadius: 10 }}>
+        <Card containerStyle={{ marginTop: 20,marginBottom:4,backgroundColor:this.state.showingFilter == item.name ? '#D4FF90' : '#fff' ,  borderRadius: 10 }}>
           <View
             style={{
               flexDirection: "row",

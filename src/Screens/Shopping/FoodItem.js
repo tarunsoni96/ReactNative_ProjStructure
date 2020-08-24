@@ -37,24 +37,22 @@ quant:0,
     let reduxIndex = 0
      reduxIndex = this.props.selectedFoodItems?.findIndex((v) => v.name == name);
     let obj = { name, qty: this.state.quant };
-
+    HelperMethods.animateLayout()
     if (type == "increase") {
         this.props.increaseQty(obj);
-    } else {
-      if (this.props.selectedFoodItems[reduxIndex].qty != 1) {
+    } else if(reduxIndex > -1) {
         this.props.decreaseQty(obj);
-      }
     }
   }
 
 
 
   render() {
-      const {item} = this.props
+      const {item,selected} = this.props
     let reduxIndex = this.props.selectedFoodItems?.findIndex((v) => v.name == item.name);
 
     return (
-        <Card containerStyle={{ marginTop: 20, borderRadius: 10 }}>
+        <Card containerStyle={{ marginTop: 20,marginBottom:4, borderRadius: 10 }}>
         <View
           style={{
             flexDirection: "row",
@@ -62,9 +60,9 @@ quant:0,
             justifyContent: "space-between",
           }}
         >
-          <CustomText style={{ flex: 1 }} text={item.name} />
+          <CustomText style={{ flex: 1 }}  text={item.name} />
           <NumberCounter
-            quant={this.props.selectedFoodItems[reduxIndex]?.qty || 0}
+            quant={this.props.selectedFoodItems[reduxIndex] ? this.props.selectedFoodItems[reduxIndex].qty : 0}
             increaseDecrease={(type) => this.increaseDecrease(type,item)}
           />
         </View>

@@ -35,17 +35,32 @@ export const addRemoveServiceReducer = (state = initalState, action) => {
       };
 
     case decreaseFoodQty:
-      return {
-        ...initalState,
-        selectedFoodItems: state.selectedFoodItems.map((item, index) => {
-          if (item.id !== action.payload.id) {
-            return item;
-          } else {
-            return { ...item, qty: item.qty - 1 };
-          }
-        }),
-      };
+      let arrIndex = state.selectedFoodItems.findIndex(v => v.name === action.payload.name)
+      if(state.selectedFoodItems[arrIndex].qty == 0){
+        return {
+            selectedFoodItems:state.selectedFoodItems
+          };
+      }
+      if(state.selectedFoodItems[arrIndex].qty == 1){
+        return {
+          ...initalState,
+          selectedFoodItems: state.selectedFoodItems.filter((item, i) => {
+            return item.name !== action.payload.name
+        })
+        };
+      } else {
 
+        return {
+          ...initalState,
+          selectedFoodItems: state.selectedFoodItems.map((item, i) => {
+            if(item.name == action.payload.name){
+              item.qty -=1
+            }
+            return item
+          })
+        };
+      }
+        
     default:
       return { ...state };
   }

@@ -45,7 +45,7 @@ export default class CustomButton extends Component {
           bottom: 0,
           width: "100%",
           right: 16,
-          height: 130,
+          height: 150,
           justifyContent: "flex-end",
           
         }}
@@ -60,7 +60,6 @@ export default class CustomButton extends Component {
           style={[
             {
               width: "100%",
-              borderRadius: 6,
               marginVertical:10,
               ...containerStyle,
             },
@@ -77,7 +76,7 @@ export default class CustomButton extends Component {
 
                 {
                   
-                  padding: widthPercentageToDP(3),
+                  padding: widthPercentageToDP(4),
                   alignItems: "center",
                   ...gradStyle,
                 },
@@ -112,7 +111,6 @@ export default class CustomButton extends Component {
         style={[
           {
             width: "100%",
-            borderRadius: 6,
             ...containerStyle,
           },
           half && { width: widthPercentageToDP(38), alignSelf: "flex-end" },
@@ -127,7 +125,7 @@ export default class CustomButton extends Component {
             style={[
               styles.btn,
               {
-                padding: widthPercentageToDP(3),
+                padding: widthPercentageToDP(4),
                 alignItems: "center",
                 ...gradStyle,
               },
@@ -161,18 +159,12 @@ const styles = EStyleSheet.create({
   $rem: global.rem,
 
   button: {
-    height: "44rem",
+    height: "54rem",
     justifyContent: "center",
     backgroundColor: Colors.accent,
     borderRadius: 4,
   },
 
   btn: {
-    borderRadius: 6,
-    // elevation: 10,
-    // shadowOffset: { width: 10, height: 10 },
-    // shadowColor: "black",
-    // shadowOpacity: 1,
-    // backgroundColor: "#0000",
   },
 });

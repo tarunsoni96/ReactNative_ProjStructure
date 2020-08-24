@@ -1,4 +1,0 @@
-# Referenced at /Users/techugo/Desktop/RN Structure/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/techugo/Desktop/RN Structure/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:35
--keep class com.soloync.MainApplication { <init>(); }

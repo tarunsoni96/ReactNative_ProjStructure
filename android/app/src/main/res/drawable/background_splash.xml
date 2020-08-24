@@ -2,11 +2,11 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:drawable="@color/splash_bg"/>
+    android:drawable="@color/splash_bg"/>
 
     <item
-        android:width=" 107dp"
-        android:height="27dp"
+        android:width="107dp"
+        android:height="105dp"
         android:drawable="@drawable/appicon_png"
         android:gravity="center" />
 

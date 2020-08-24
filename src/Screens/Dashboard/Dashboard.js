@@ -55,14 +55,13 @@ class Dashboard extends Component {
     return (
       <TouchableWithoutFeedback onPress={()=>this.props.navigation.navigate('Shopping',{hotel:item}) }>
 
-      <Card containerStyle={{ marginTop: 20,borderRadius:10 }}>
+      <Card containerStyle={{ marginTop: 20,marginBottom:5,borderRadius:10 }}>
         <View
           style={{
             flexDirection: "row",
             alignItems: "center",
             justifyContent: "space-between",
-          }}
-        >
+          }}>
           <CustomText text={item.title} />
           <Icons lib="AntDesign" color={Colors.textNormal} name="right" />
         </View>

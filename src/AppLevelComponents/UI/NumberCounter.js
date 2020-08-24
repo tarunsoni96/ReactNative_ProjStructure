@@ -8,6 +8,7 @@ import Line from "Helpers/line";
 import { withNavigation } from "react-navigation";
 import Icons from "AppLevelComponents/UI/Icons";
 import { TextInput } from "react-native";
+import { Colors } from "UIProps/Colors";
 class NumberCounter extends Component {
   render() {
     const { navigate,quant, title, subtitle,increaseDecrease } = this.props;
@@ -16,7 +17,7 @@ class NumberCounter extends Component {
             <TouchableOpacity onPress={()=>increaseDecrease('decrease')} style={styles.circle}>
                 <Icons lib='AntDesign' name='minus' size={14} color='#BDBDBD' />
             </TouchableOpacity>
-                <CustomText text={quant} color='#BDBDBD' style={{paddingHorizontal:13}} size={16} />
+                <CustomText text={quant} color={Colors.textNormal} style={{paddingHorizontal:13}} size={16} />
             <TouchableOpacity onPress={()=>increaseDecrease('increase')} style={styles.circle}>
                 <Icons lib='AntDesign' name='plus' size={14} color='#BDBDBD' />
             </TouchableOpacity>

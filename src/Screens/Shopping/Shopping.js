@@ -21,6 +21,8 @@ import Filters from "./Filters";
 import Line from "Helpers/line";
 import NumberCounter from "AppLevelComponents/UI/NumberCounter";
 import FoodItem from "./FoodItem";
+import { SafeAreaView } from "react-native";
+import CustomButton from "AppLevelComponents/UI/CustomButton";
 
 @observer
 class Shopping extends Component {
@@ -64,12 +66,13 @@ class Shopping extends Component {
   render() {
     const { hotel } = this.props.navigation.state.params;
     return (
+      <SafeAreaView style={{flex:1}}>
       <Container onBackPress={this.onBackPress} headerTitle={`${hotel.title}`}>
         <Filters updateItems={(item) => this.fetchItems(item)} />
         <Line style={{ marginVertical: 20 }} />
 
         {this.state.data.length > 0 && (
-          <CustomText text={"Items - " + this.state.showing} />
+          <CustomText text={this.state.showing} />
         )}
 
         <NetworkAwareContent
@@ -85,12 +88,19 @@ class Shopping extends Component {
           />
         </NetworkAwareContent>
       </Container>
+      {this.props.selectedFoodItems.length > 0 && 
+      <CustomButton onPress={()=>this.props.navigation.navigate('Summary')} text="Procced" />
+      }
+      </SafeAreaView>
     );
   }
 }
 
 const mapStateToProps = (state) => {
-  return {};
+  return {
+    selectedFoodItems: state.reducer.selectedFoodItems,
+
+  };
 };
 
 const mapDispatchToProps = (dispatch) => {
